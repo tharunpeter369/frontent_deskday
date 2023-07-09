@@ -47,10 +47,8 @@ function Profile() {
 
     return (
         <>
-            <Box sx={{ backgroundColor: "#fcfcfd",pb:10 }}>
+            <Box sx={{ backgroundColor: "#fcfcfd",pb:14 }}>
                 <Box sx={{ pl: 1, pr: 1, backgroundColor: "#fcfcfd", height: "" }}>
-                    {/* <Box sx={{ pl: 1, pr: 1, backgroundColor: "#fcfcfd", height: "" }}> */}
-
                     <CustomBoxProfile>
                         <Typography variant="h6" sx={{ p: 2 }}>Profile</Typography>
                     </CustomBoxProfile>
