@@ -116,7 +116,7 @@ function Navbar() {
                                         right: '2px',
                                         backgroundColor: 'red',
                                         width: '8px',
-                                        height: '8p2x',
+                                        height: '8px',
                                         borderRadius: '50%',
                                     }}
                                 ></span>
