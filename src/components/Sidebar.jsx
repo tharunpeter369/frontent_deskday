@@ -62,7 +62,8 @@ function Sidebar() {
         <Box sx={{ backgroundColor: "none" }} flex={1}>
             <Stack direction={"row"}>
                 {/* First vertical Block  */}
-                <Stack sx={{ backgroundColor: "#E7EBF3", height: "100vh" }}>
+                {/* <Stack sx={{ backgroundColor: "#E7EBF3", height: "100vh" }}> */}
+                <Stack sx={{ backgroundColor: "#E7EBF3", minHeight: "100vh", height: '100vh', }}>
                     {/* producnt icon  */}
                     <CustomBox>
                         <FilterOutlined color="primary" />
